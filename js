@@ -3,3 +3,5 @@
 */
 
 var Graph = {};
+
+console.log("loaded Graph");
